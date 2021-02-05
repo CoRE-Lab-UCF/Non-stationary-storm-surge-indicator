@@ -7,8 +7,10 @@ This package includes source codes/scripts for developing and analyzing of storm
   <a><img src="https://ndownloader.figshare.com/files/17922803/preview/17922803/preview.gif" width="400px"></a>
 </p>
 
-### Reference:
-[Rashid, M.M., Wahl, T., Chambers, D.P., Calafat, F.M., Sweet, W.V. (2019). An extreme sea level indicator for the contiguous United States coastline, Nature Scientific Data, 6, 326, doi:10.1038/s41597-019-0333-x](https://www.nature.com/articles/s41597-019-0333-x)
+### Reference/Citation:
+1. [Rashid, M.M., Wahl, T., Chambers, D.P., Calafat, F.M., Sweet, W.V. (2019). An extreme sea level indicator for the contiguous United States coastline, Nature Scientific Data, 6, 326, doi:10.1038/s41597-019-0333-x](https://www.nature.com/articles/s41597-019-0333-x)
+
+2. [Rashid, Md Mamunur and Wahl, Thomas (2019): SLI_source_code. figshare. Software. https://doi.org/10.6084/m9.figshare.8258912.v2](https://figshare.com/articles/code/SLI_source_code_7z/8258912)
 
 
 
